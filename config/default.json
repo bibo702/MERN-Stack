@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://bibo702:bibo702@mern-devconnector-8scop.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "MacBookPro "
+}
